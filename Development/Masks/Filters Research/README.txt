@@ -1,0 +1,1 @@
+Upload here all documentation and research that you consider useful for creating filters for our own masks
